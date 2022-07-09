@@ -6,7 +6,7 @@ public class DataTypes {
 	public static void main(String[] args) {
 		
 		//Data types:
-		//stric type:
+		//strict type:
 		
 		int x = 10;
 		
